@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+#shipping{
+    color: rgb(24, 57, 202);
+}
+
+#paragraph{
+    font-weight: bold;
+}
+
+
+.new{
+    font-style: italic;
+}
+
+#vip{
+    background-color: bisque;
+    margin: 20px;
+    padding: 30px;
+    color: rgb(2, 10, 10);
+    border-radius: 20px;
+}
+
+#vip h3{
+    text-align: center;
+    font-size: 30px;
+
+}
+
+
+#vip:hover{
+    background-color: brown;
+}
+
+
+#surprises{
+    display: flex;
+    gap: 20px;
+    margin: 40px;
+}
+
+#delivary{
+    display: flex;
+}
+  
+#courses{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

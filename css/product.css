@@ -1,0 +1,33 @@
+h1{
+    color: blueviolet;
+    text-align:center; 
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: black;
+    line-height: 100px;
+    text-shadow:8px 8px 12px grey ;    
+}
+
+h1:hover{
+    background-color: aqua;
+    color: black;
+    font-size: 50px;
+}
+
+p{
+    font-weight: bold;
+    font-style: italic;
+}
+
+img{
+    width: 320px;
+    height: 200px;
+    margin-right: 10px;
+    border-radius: 10px;
+
+
+
+
+
+}
+
